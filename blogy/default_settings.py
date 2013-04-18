@@ -1,4 +1,5 @@
 THEME = 'lifebook'
+#THEME = 'memoir'
 
 MARKITUP_FILTER = ('markitup.renderers.render_rest', {})
 MARKITUP_SET = 'markitup/sets/restructuredtext'
