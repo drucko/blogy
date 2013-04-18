@@ -1,0 +1,1 @@
+* Simple BLogsystem with Django
